@@ -1,5 +1,5 @@
 # Networking_and_Cybersecurity
-Assessing Networking and Cybersecurity
+# Assessing Networking and Cybersecurity
 
 # Introduction:
 This appraisal synthesizes my journey through the Networking and Cybersecurity curriculum within the Computer Information Systems and Business Analytics program. It aims to analyze my strengths, identify areas for growth, and plan for future learning. This reflective process is pivotal for my capstone project's success, ensuring a robust integration of Networking and Cybersecurity with other key curricular areas.
